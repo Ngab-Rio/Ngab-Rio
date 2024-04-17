@@ -1,5 +1,10 @@
 <div align=center>
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&pause=1000&color=AB4DF7&center=true&vCenter=true&random=false&width=440&lines=😎Hallo+guys+Welcome+to+My+Git😎;🪄Enjoy+Your+Surving🪄)](https://git.io/typing-svg)
+
+<img src=https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif>
+
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ngabrio_1235) 
