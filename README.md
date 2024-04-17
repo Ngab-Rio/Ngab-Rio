@@ -1,4 +1,6 @@
+<div align=center>
 
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ngabrio_1235) 
 
@@ -22,3 +24,4 @@
 [![](https://visitcount.itsvg.in/api?id=Ngab-Rio&icon=5&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
