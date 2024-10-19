@@ -17,7 +17,6 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Ngab-Rio&theme=dark&hide_border=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ngab-Rio&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngab-Rio&theme=dark&hide_border=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
