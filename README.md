@@ -14,21 +14,24 @@
 
 ## 💻 Tech Stack & Skills
 
-### 💡 Languages & Tools
+### 🛠️ Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell--Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### ⚙️ Infrastructure & DevOps
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 🌐 Networking
+### 🐳 DevOps & Containers
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔌 Networking
 ![MikroTik](https://img.shields.io/badge/MikroTik-%23e0006c.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-%2300497C.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
@@ -36,14 +39,15 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ngab-Rio&theme=dark&hide_border=true&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ngab-Rio&theme=dark&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ngab-Rio&theme=dark&hide_border=true&show_icons=true&include_all_commits=true)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ngab-Rio&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngab-Rio&theme=dark&hide_border=true&layout=compact)
 
 ---
 
 ## ✍️ Dev Quote of the Day
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
