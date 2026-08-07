@@ -62,7 +62,7 @@ currently   : Building robust systems & learning every day
 
 <p align="center">
   <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ngab-Rio&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" /> -->
-  <img height="180em" src="https://www.readmecodegen.com/api/github-stats/svg?username=Ngab-Rio&theme=github_light)](https://www.readmecodegen.com/custom-github-card-generator"
+  <img height="200em" src="https://www.readmecodegen.com/api/github-stats/svg?username=Ngab-Rio&theme=github_dark"
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngab-Rio&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
